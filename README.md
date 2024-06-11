@@ -18,7 +18,7 @@ The overall workflow is to:
 
 ### In-depth guide
 
-Checkout the 2i2c docs for an in-depth guide on how to use this template repository to create a custom user image and use it for your hub :arrow_right: https://docs.2i2c.org/en/latest/admin/howto/environment/hub-user-image-template-guide.html.
+:arrow_right: Checkout the 2i2c docs for an [in-depth guide](https://docs.2i2c.org/admin/howto/environment/customize-image/) on how to use this template repository to create a custom user image and use it for your hub.
 
 ## About this template repository :information_source:
 
